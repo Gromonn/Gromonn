@@ -1,23 +1,28 @@
-<html> 
- <body> 
- <form method="post">  
+Hi, I'm Gaurav Pillay 👋
+Data Science Graduate | Machine Learning | Deep Learning | SQL
 
-Enter First Number:  
-<input type="number" name="number1" /><br><br>  
-Enter Second Number:  
-<input type="number" name="number2" /><br><br>  
-<input  type="submit" name="submit" value="Add">  \\
-</form>  
-<?php                                           \\ php code start here
-    if(isset($_POST['submit']))     \\define result 
-    {  
-        $number1 = $_POST['number1'];  \\ accept first number
-        $number2 = $_POST['number2'];  
+I'm a Computer Science graduate with a specialization in Data Science, focused on building machine learning and neural network models and working with data-driven solutions.
 
-\\ accept second  number
-        $sum =  $number1+$number2;     \\ Add above 2 numbers
-echo "The sum of above two number is: ".$sum;    \\ display sum of 2 numbers
-}  
-?>  \\ php code end
-</body>  
-</html>
+🔧 Skills
+Programming: Python, MySQL, C
+Data Science: Machine Learning, Neural Networks, Generative AI
+Analytics: EDA, Feature Engineering, Model Evaluation
+Visualization: Power BI
+Cloud: AWS (S3, Lambda, SNS, ECS)
+
+📊 Data Science Projects
+Customer Churn Prediction — Machine learning classification using EDA, feature engineering, RFE, Logistic Regression, Decision Tree, and Random Forest.
+Musical Note Analyzer — Python-based audio analysis using Fourier Transform to identify musical notes from frequency signals.
+Deep Learning for Audio — Explored neural network architectures for applications including audio classification, speech recognition, and sound event detection.
+🎓 Education
+
+M.Sc. Computer Science — Savitribai Phule Pune University
+
+Data Science Specialization — Intellipaat
+
+📜 Certification
+
+AWS Services Fundamentals — Simplilearn SkillUp
+
+🔗 Connect With Me
+linkedin.com/in/gauravpillay/
